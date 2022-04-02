@@ -78,7 +78,6 @@ export default {
 <style lang="scss" scoped>
   .va-navbar {
     box-shadow: var(--va-box-shadow);
-    z-index: 2;
     &__center {
       @media screen and (max-width: 1200px) {
         .app-navbar__github-button {
